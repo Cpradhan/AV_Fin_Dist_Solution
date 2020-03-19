@@ -1,4 +1,4 @@
-# Finance_Distribution_Solution
+# AV_Fin_Dist_Solution
 Data Science Hackathon Project for Classification Problem
 
 The aim of this project was to build a classifier to predict if a financial agent will get business for the company.
